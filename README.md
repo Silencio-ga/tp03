@@ -53,8 +53,8 @@ La aplicación incluye las siguientes funcionalidades:
 
 ## Nombre y Apellido
 
-[nombre y apellido]
+grabiel david acuña 
 
 ## Enlace al repositorio
 
-<enlace-al-repositorio-de-github>
+[<enlace-al-repositorio-de-github>](https://github.com/Silencio-ga/tp03)
